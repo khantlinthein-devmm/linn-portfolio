@@ -4,7 +4,7 @@ import { Icon } from "@iconify/vue";
 
 <template>
   <div class="container-home">
-    <img src="../../public/photo/linn-photo.JPG" alt="" />
+    <img src="../../public/photo/linn-photo.jpg" alt="" />
 
     <div class="absolute mt-[8pc] ml-[10pc] inset-1">
       <h1 class="ml-5 font-semibold font-Montserrat">
