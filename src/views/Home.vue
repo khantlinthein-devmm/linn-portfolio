@@ -4,7 +4,7 @@ import { Icon } from "@iconify/vue";
 
 <template>
   <div class="container-home">
-    <img src="../../public/photo/linn-photo.jpg" alt="" />
+    <img src="/photo/linn-photo.jpg" alt="" />
 
     <div class="absolute mt-[8pc] ml-[10pc] inset-1">
       <h1 class="ml-5 font-semibold font-Montserrat">
@@ -36,7 +36,7 @@ import { Icon } from "@iconify/vue";
       <div class="grid grid-cols-2 mt-[5pc]">
         <div>
           <img
-            src="../../photo/contact-2.jpg"
+            src="/photo/contact-2.jpg"
             class="w-[30pc] rounded-full ml-[10pc]"
           />
         </div>
