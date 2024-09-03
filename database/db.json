@@ -1,0 +1,39 @@
+{
+  "movies" : [
+    {
+      "id" : 1,
+      "title" : "အမည်းစက်",
+      "year" : "2019",
+      "runtime" : "119 min",
+      "poster" : "../public/photo/1.1.jpg"
+    },
+    {
+      "id" : 2,
+      "title" : "အမည်းစက်",
+      "year" : "2019",
+      "runtime" : "119 min",
+      "poster" : "../public/photo/1.4.jpg"
+    },
+    {
+      "id" : 3,
+      "title" : "အမည်းစက်",
+      "year" : "2019",
+      "runtime" : "119 min",
+      "poster" : "../public/photo/1.5.jpg"
+    },
+    {
+      "id" : 4,
+      "title" : "အမည်းစက်",
+      "year" : "2019",
+      "runtime" : "119 min",
+      "poster" : "../public/photo/1.7.jpg"
+    },
+    {
+      "id" : 5,
+      "title" : "အမည်းစက်",
+      "year" : "2019",
+      "runtime" : "119 min",
+      "poster" : "../public/photo/1.1.jpg"
+    }
+  ]
+}
