@@ -2,7 +2,7 @@
   <div class="grid grid-cols-2 mt-4">
     <div class="ml-[15pc] my-20">
       <img
-        src="/photo/contact.jpg"
+        src="../assets/photo/contact.jpg"
         alt=""
         class="w-[30pc] object-cover rounded-md"
       />

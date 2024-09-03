@@ -1,7 +1,7 @@
 <template>
   <div class="relative mx-10 my-20 about">
     <img
-      src="../../public/photo/linn-1.jpg"
+      src="../assets/photo/linn-1.jpg"
       alt="Linn"
       class="w-[40pc] object-cover rounded-md"
     />
@@ -68,12 +68,12 @@
       <div class="grid grid-cols-5 gap-3 mt-3 about-section">
         <div class="grid grid-rows-2 photo-1-wrap">
           <img
-            src="/photo/1.1.jpg"
+            src="../assets/photo/1.1.jpg"
             alt=""
             class="w-[30pc] object-cover rounded-md mt-10"
           />
           <img
-            src="/photo/phyu.jpg"
+            src="../assets/photo/phyu.jpg"
             alt=""
             class="w-[30pc] object-cover rounded-md"
           />
@@ -81,25 +81,25 @@
 
         <img
           class="w-[30pc] object-cover rounded-md mt-[5pc]"
-          src="/photo/1.3.jpg"
+          src="../assets/photo/1.3.jpg"
           alt=""
         />
 
         <img
           class="w-[30pc] object-cover rounded-md mt-10"
-          src="/photo/1.5.jpg"
+          src="../assets/photo/1.5.jpg"
           alt=""
         />
 
         <img
           class="w-[30pc] object-cover rounded-md mt-[5pc]"
-          src="/photo/1.7.jpg"
+          src="../assets/photo/1.7.jpg"
           alt=""
         />
 
         <img
           class="w-[30pc] object-cover rounded-md mt-10"
-          src="/photo/black-1.jpg"
+          src="../assets/photo/black-1.jpg"
           alt=""
         />
       </div>
@@ -167,7 +167,7 @@
           </ul>
         </div>
         <div>
-          <img src="/photo/contact-1.jpg" alt="" class="w-[25pc] rounded-md"/>
+          <img src="../assets/photo/contact-1.jpg" alt="" class="w-[25pc] rounded-md"/>
         </div>
       </div>
     </div>
